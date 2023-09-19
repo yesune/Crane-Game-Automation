@@ -1,3 +1,3 @@
 # Crane Game Automation
  Automates the crane game in Leaf Blower Revolution
- It is broken right now and I don't really have plans on fixing it
+ Note - if you want to use this yourself you may have to adjust the pixel values!
